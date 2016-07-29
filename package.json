@@ -1,0 +1,19 @@
+{
+  "name": "wallethub-tasks-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvcjunior/wallethub-tasks-project.git"
+  },
+  "author": "Valter Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvcjunior/wallethub-tasks-project/issues"
+  },
+  "homepage": "https://github.com/jvcjunior/wallethub-tasks-project#readme"
+}
